@@ -1,0 +1,36 @@
+
+.Header *{
+        border:solid;
+    }
+
+    .Header{
+        background-color: blue;
+        display:flex;
+        justify-content: space-between;
+
+    }
+
+    .Subhead *{
+            border:solid;
+        }
+
+        .Subhead{
+            background-color: black;
+            display:flex;
+            justify-content: space-between;
+
+        }
+        .site-description{
+            display:flex;
+            flex-direction: column;
+            justify-content: first baseline;
+
+    }
+
+a: link{
+  color:white;
+}
+
+a: visited{
+  color:white;
+}
